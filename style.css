@@ -1,0 +1,45 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: orange; 
+}
+
+.heading_div{
+    background: green;
+    color: white;
+}
+
+.heading_div img{
+ width: 100px;
+}
+
+.copy_right_footer{
+
+    color: cyan;
+    bottom: 0;
+    width: 100%;
+    background-color: darkmagenta;
+    line-height: 3;
+    text-align: center;
+}
+
+
+.footer_div{
+    margin: bottom 12px;
+}
+
+.footer_div h4{
+    background-color: cyan;
+    color: black;
+    text-align: left;
+    border-radius: 10px;
+    padding:5px;
+    box-shadow: 5px 5px 18px crimson;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.footer_div2{
+    color: black;
+}
